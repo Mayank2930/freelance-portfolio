@@ -4,12 +4,12 @@ Hey, I'm Mayank! I engineer production-grade AI agents, LLM workflows, and high-
 
 ## 🚀 Production Case Studies
 
-### 1. [Enterprise GenAI NLQ Engine & Custom Developer Tooling](./case-study-1-ai-agents/)
-* **Focus:** Model Context Protocol (MCP), Bedrock, Claude 3.5, tool-calling loops.
+### 1. [Enterprise GenAI NLQ Engine](./case-study-1-ai-agents/)
+* **Focus:** Natural language querying, Bedrock, Claude 3.5, tool-calling loops.
 * **Impact:** Eliminated manual engineering database audits by enabling non-technical teams to safely query internal schemas using plain text.
 
-### 2. [High-Volume Data Pipeline & Async Infrastructure Optimization](./case-study-2-data-pipelines/)
-* **Focus:** Go, FastAPI, Spring Boot, Redis, multi-level caching.
+### 2. [Async Export Pipeline for Large Datasets](./case-study-2-data-pipelines/)
+* **Focus:** AWS S3, SQS, Memory management.
 * **Impact:** Slashed data ingestion processing latency by 60% (from 1.5s to 300ms) and eliminated API thread pool exhaustion.
 
 ### 3. [Fault-Tolerant, Event-Driven AWS Observability Platform](./case-study-3-aws-observability/)
