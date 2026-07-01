@@ -17,4 +17,4 @@ Hey, I'm Mayank! I engineer production-grade AI agents, LLM workflows, and high-
 * **Impact:** Built a self-healing system logging notification pipeline ensuring 100% visibility into microservice failure spikes.
 
 ---
-🤝 **Looking for an engineer to optimize your backend or build custom AI agents? Let's connect on [LinkedIn](YOUR_LINKEDIN_URL).**
+🤝 **Looking for an engineer to optimize your backend or build custom AI agents? Let's connect on [LinkedIn](https://www.linkedin.com/in/mayank-bhardwaj-a131b61b8/).**
